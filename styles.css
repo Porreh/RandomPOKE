@@ -67,7 +67,7 @@ body {
   display: none;
 }
 
-.sprite {
+.image {
   -webkit-box-align: center;
   -ms-flex-align: center;
   align-items: center;
@@ -85,7 +85,7 @@ body {
   width: 300px;
 }
 
-.sprite img {
+.image img {
   height: 250px;
   width: 250px;
 }
