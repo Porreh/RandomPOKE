@@ -1,7 +1,7 @@
 const url = 'https://pokeapi.co/api/v2/pokemon/';
 let $pokemon = $('.pokemon');
 let $button = $('.button');
-let $sprite = $('.sprite img');
+let $sprite = $('.image img');
 let $name = $('.name');
 
 function getPokemon(id) {
